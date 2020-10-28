@@ -4,6 +4,6 @@ def main():
 
 if __name__ == '__main__':
   from fit_byte import FitByte
-    main()
+  main()
 else:
   from src.fit_byte import FitByte
